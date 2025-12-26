@@ -5,8 +5,6 @@ Backend Developer / Full Stack Developer
 📍 Russia | 🎂 23 years old (April 3, 2002)
 📧 Email: mppamaksnm2018@gmail.com
 💬 Telegram: @poshkiri
-🔗 GitHub: https://github.com/poshkiri
-🔗 LinkedIn: https://www.linkedin.com/in/maxim-petrukha-b427b5396/
 
 Profile
 
@@ -123,3 +121,4 @@ Languages
 Career Objective
 
 Seeking a Backend Developer or Full Stack Developer position to apply my skills in Node.js, MongoDB, and blockchain integration. Looking to contribute to real-world projects, work with experienced developers, and continue growing professionally. Open to both full-time positions and remote opportunities. Interested in projects involving blockchain, fintech, or e-commerce applications.
+
